@@ -42,12 +42,12 @@ Create a virtual enviroment:
 
     Command to run the calculation (works in Ubuntu terminal):
 
-`python3 -u reconstruction.py > output_reconst_MoSe2_AP0.6`
+        `python3 -u reconstruction.py > output_reconst_MoSe2_AP0.6`
 
 
     Command to run the calculation in background (works in Ubuntu)
 
-`nohup python3 -u reconstruction.py > output_reconst_MoSe2_AP0.6 &`
+        `nohup python3 -u reconstruction.py > output_reconst_MoSe2_AP0.6 &`
 
 
 
