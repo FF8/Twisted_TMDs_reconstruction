@@ -19,7 +19,7 @@ More details can be found in the follwing references:
 
 Create a virtual enviroment:
 
-pyhton3 -m venv venv
+python -m venv venv
 
 ### Activate your virtual enviroment:
 
