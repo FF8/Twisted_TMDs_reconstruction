@@ -13,3 +13,19 @@ More details can be found in the follwing references:
 -Nature Reviews Physics volume 4, page 632 (2022)<br />
 
 
+## Instructions
+
+### Create a virtual environment
+
+Create a virtual enviroment:
+
+pyhton3 -m venv venv
+
+### Activate your virtual enviroment:
+
+source venv/bin/activate
+
+### Install python packages:
+
+pip install -r requirements.txt
+
