@@ -4,7 +4,7 @@
 
 ## General info
 
-This code computes the lattice reconstuction of twisted homobilayers of TMDs. 
+This code computes the lattice reconstruction of twisted homobilayers of TMDs. 
 More details can be found in the following references:
 
  * Phys. Rev. Lett. 124, 206101 –20 May 2020<br />
