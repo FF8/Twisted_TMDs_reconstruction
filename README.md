@@ -40,12 +40,12 @@ Create a virtual enviroment:
 
 
 
-    Command to run the calculation (works in Ubuntu terminal):
+    Command to run a calculation (works in Ubuntu terminal):
 
         `python3 -u reconstruction.py > output_reconst_MoS2_AP0.6`
 
 
-    Command to run the calculation in background (works in Ubuntu)
+    Command to run a calculation in background (works in Ubuntu)
 
         `nohup python3 -u reconstruction.py > output_reconst_MoS2_AP0.6 &`
 
